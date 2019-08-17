@@ -1,0 +1,25 @@
+{
+  "name": "sqlite-expressjs-async-await-blogpost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lampewebdev/sqlite-expressjs-async-await-blogpost.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lampewebdev/sqlite-expressjs-async-await-blogpost/issues"
+  },
+  "homepage": "https://github.com/lampewebdev/sqlite-expressjs-async-await-blogpost#readme",
+  "dependencies": {
+    "polka": "^0.5.2",
+    "sqlite-async": "^1.0.12"
+  }
+}
